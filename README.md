@@ -8,8 +8,6 @@ A sequence-to-sequence Transformer model built from scratch using PyTorch, capab
 > It is **not** designed for long paragraphs, complex compound sentences, or large blocks of text. Attempting to translate such inputs may result in repetitions, cut-offs, or hallucinations (nonsense output). For best results, please break down longer text into smaller, individual sentences.
 > 
 > My main focus was on the implementation and learning about how transformer actually works behind the screen.
-> 
-#The project includes a full training pipeline and a deployed **Streamlit** web interface for real-time inference.
 
 
 ---
