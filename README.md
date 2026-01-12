@@ -97,4 +97,3 @@ The application is deployed directly from Google Colab using a tunnel:
 
 ---
 
-*Project created by **[Your Name]**.*
