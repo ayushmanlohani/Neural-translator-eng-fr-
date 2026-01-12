@@ -11,7 +11,6 @@ A sequence-to-sequence Transformer model built from scratch using PyTorch, capab
 > 
 The project includes a full training pipeline and a deployed **Streamlit** web interface for real-time inference.
 
-🔗 **[Live Demo App] (https://jenice-truing-unsightly.ngrok-free.dev/)** 
 
 ---
 
