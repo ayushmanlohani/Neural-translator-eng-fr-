@@ -9,7 +9,7 @@ A sequence-to-sequence Transformer model built from scratch using PyTorch, capab
 > 
 > My main focus was on the implementation and learning about how transformer actually works behind the screen.
 > 
-The project includes a full training pipeline and a deployed **Streamlit** web interface for real-time inference.
+#The project includes a full training pipeline and a deployed **Streamlit** web interface for real-time inference.
 
 
 ---
