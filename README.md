@@ -2,6 +2,12 @@
 
 A sequence-to-sequence Transformer model built from scratch using PyTorch, capable of translating English sentences into French. This project demonstrates a deep understanding of the Transformer architecture, including custom implementations of Multi-Head Attention, Encoder-Decoder blocks, and positional embeddings.
 
+> **⚠️ Important Note on Usage:**
+> This model was trained on a dataset primarily consisting of **short to medium-length sentence pairs**. As a result, it is optimized for translating concise phrases and simple sentences.
+>
+> It is **not** designed for long paragraphs, complex compound sentences, or large blocks of text. Attempting to translate such inputs may result in repetitions, cut-offs, or hallucinations (nonsense output). For best results, please break down longer text into smaller, individual sentences.
+> My main focus was on the implemtation and learning about how trnasformer actually works behind the screen.
+> 
 The project includes a full training pipeline and a deployed **Streamlit** web interface for real-time inference.
 
 🔗 **[Live Demo App] (https://jenice-truing-unsightly.ngrok-free.dev/)** 
